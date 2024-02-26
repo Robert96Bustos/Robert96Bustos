@@ -28,6 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-blue?style=flat&logo=gitkraken&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
+![Cron](https://img.shields.io/badge/-Cron-yellow?style=flat)
 
 ## Contacto
 ¡No dudes en contactarme!
