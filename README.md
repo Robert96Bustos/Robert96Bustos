@@ -1,4 +1,4 @@
-# ¡Hola! Soy Robert Bustos 👋
+# ¡Hola!, Soy Robert Bustos 👋
 
 ## Acerca de mí
 - 👨‍💻 Analista Programador Computacional.
