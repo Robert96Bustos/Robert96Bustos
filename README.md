@@ -32,5 +32,5 @@
 
 ## Contacto
 ¡No dudes en contactarme!
-- 📫 Email: "robertbustos1996@gmail.com"
+- 📫 Email: robertbustos1996@gmail.com
 - 💼 LinkedIn: [Robert Bustos](https://www.linkedin.com/in/robertbustosv/)
