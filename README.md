@@ -3,7 +3,7 @@
 ## Acerca de mí
 - 👨‍💻 Analista Programador Computacional.
 - 🌱 Aprendiendo constantemente sobre nuevas tecnologías y frameworks.
-- 📷 Aficionado al gym, anime y videojuegos.
+- 💪 Aficionado al gym, anime y videojuegos.
 
 ## Lenguajes y herramientas
 ### Desarrollo Web
@@ -14,8 +14,8 @@
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat&logo=sqlite&logoColor=white)
 
 ### Bibliotecas
 ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat&logo=pandas&logoColor=white)
